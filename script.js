@@ -16,11 +16,11 @@
 */
 
 
-const EMAILJS_PUBLIC_KEY = "YOUR_PUBLIC_KEY";
+const EMAILJS_PUBLIC_KEY = "3cfj2808eTpoLiYgA";
 
 const EMAILJS_SERVICE_ID = "service_gcz4xbp";
 
-const EMAILJS_TEMPLATE_ID = "YOUR_TEMPLATE_ID";
+const EMAILJS_TEMPLATE_ID = "template_7rfybnl";
 
 
 /* =========================================
